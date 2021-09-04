@@ -1,7 +1,5 @@
 package strings;
-
 public class Upper {
-
   /** Driver Code */
   public static void main(String[] args) {
     String[] strings = {"ABC", "ABC123", "abcABC", "abc123ABC"};
@@ -11,7 +9,7 @@ public class Upper {
   }
 
   /**
-   * Converts all of the characters in this {@code String} to upper case
+   * Converte todos os caracteres na String  {@code String} para maiúsculas.
    *
    * @param s the string to convert
    * @return the {@code String}, converted to uppercase.
